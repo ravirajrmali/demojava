@@ -8,6 +8,7 @@ public class A {
 		A a=new A();
 		System.out.println("Hello");
 		a.m2();
+		a.m1();
 	}
 		public void m2()
 {
@@ -16,5 +17,6 @@ public class A {
 	
 	public void m1()
 {
+	System.out.println("This is m1");
 		}
 	}
