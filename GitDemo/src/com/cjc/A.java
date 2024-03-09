@@ -19,4 +19,8 @@ public class A {
 {
 	System.out.println("This is m1");
 		}
+	public void m3()
+	{
+		System.out.println("This is m3 of branch 2");
+	}
 	}
